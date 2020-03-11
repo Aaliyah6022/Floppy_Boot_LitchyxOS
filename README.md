@@ -1,2 +1,6 @@
 # Floppy_Boot_LitchyxOS
-qemu-system-i386 -fda myfirst.flp
+ONLY WORKS IN LINUX
+------
+
+
+run: qemu-system-i386 -fda myfirst.flp
